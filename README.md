@@ -18,7 +18,7 @@ A simple Python application to track daily expenses, view expense history, and g
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/expense-tracker-python.git
+    git clone https://github.com/muhammadumermemon/expense_tracker.py.git
     ```
 2. Navigate to the project directory:
     ```bash
